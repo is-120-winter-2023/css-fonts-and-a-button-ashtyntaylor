@@ -1,4 +1,7 @@
 <!-- cSpell:enable  -->
+# My Website
+This is my website that I have designed to display basic recipes for people wanting to learn how to cook and bake.
+
 # CSS fonts and a button
 
 **Objectives**: Learn how to use CSS stylesheets. Understand what  user-agent stylesheets are and the purpose of CSS resets. Add web fonts to your website. Create a button class to style links to appear as "web buttons." Adjust whitespace to keep your pages from looking crowded.
